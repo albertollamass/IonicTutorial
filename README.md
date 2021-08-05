@@ -2,7 +2,7 @@
 
 To use the photo gallery web app just download the code, you must have ionic installed and run in the folder with the code:
 
-``` $ ionic serve
+``` $ ionic serve ```
 
 And you will be redirected to the web app in a localhost
 
